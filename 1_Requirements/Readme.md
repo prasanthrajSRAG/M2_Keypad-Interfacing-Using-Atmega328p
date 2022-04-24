@@ -3,6 +3,21 @@
   * A keypad is a block or pad of buttons set with an arrangement of digits, symbols, or alphabetical letters. Pads mostly containing numbers and used with computers are numeric keypads. Keypads are found on devices which require mainly numeric input such as calculators, television remotes, push-button telephones, vending machines, ATMs, Point of Sale devices, combination locks, and digital door locks.
 ## OBJECTIVES
   * The main goal of this project is interfacing the keypad LED using Atmega328p.
+## 4 W'S AND 1 H:
+### WHO : 
+   Keypad Interfacing is used majorly by manufacturers of electrical and electronic components.
+
+### WHAT : 
+The keypad is used as an input device to read the key pressed by the user and to process it.
+
+### WHERE :
+Keypad Interfacing is used in all Elevator Systems, Mobile Phones, Computers, Caluclators, etc.
+
+### WHEN : 
+Keypad Interfacing is used while performing calculations, moving between various floors in a multi-story building.
+
+### HOW : 
+This is output is determined on the display by using a 4x4 keypad.
 ## SWOT ANALYSIS
 ### STRENGTH
    * It will make a input as a digital which has been accessed by the computer.
